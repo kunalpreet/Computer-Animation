@@ -1,12 +1,12 @@
-# 3GC3-FinalProject - Final Submission
+# Computer Animation
 
-Final Project for McMaster 3GC3 Fall 2021. Developing an animator using OpenGL.
+Developing an animator using OpenGL.
 
 ## Group Members
 
-Kenneth Mak, makk4, 001318946
+Kenneth Mak
 
-Kunalpreet Matharu, mathak1, 400258512
+Kunalpreet Matharu
 
 ## Compilation and Execution:
 Running `make` in the root directory should generate the necessary files and run the `main` program. Be aware that constructing this will take approximately 1-2 minutes to compile all the necessary `.o` files for the first time.
